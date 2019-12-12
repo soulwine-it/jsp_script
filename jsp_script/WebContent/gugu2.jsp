@@ -4,7 +4,6 @@
   request.setCharacterEncoding("utf-8");
   int dan=Integer.parseInt(request.getParameter("dan"));
 %>
-
 <!DOCTYPE html>     
 <html>
 <head>
